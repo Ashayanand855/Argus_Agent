@@ -1,0 +1,6 @@
+{
+  "name": "Argus Agent",
+  "description": "A multi-agent Personal Assistant Swarm protected by cryptographic intent verification and ArmorIQ zero-trust governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
